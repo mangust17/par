@@ -1,2 +1,4 @@
 "Hello World!" 
+<<<<<<< HEAD
 "Change from branch1" 
+
